@@ -1,6 +1,8 @@
 
 #-*-coding:utf8-*-
 
+__anthor__ = 'ice wolf'
+
 import math
 
 # num is prime
