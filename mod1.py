@@ -1,6 +1,8 @@
 
 #-*-coding:utf8-*-
 
+__anthor__ = 'ice wolf'
+
 # num * num_r = 1 mod mod_num
 def mod1(num, mod_num):
 	"""
