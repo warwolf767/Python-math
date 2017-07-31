@@ -1,6 +1,8 @@
 
 #-*-coding:utf8-*-
 
+__anthor__ = 'ice wolf'
+
 # The product of all list elements
 def list_muit(list_o):
 	"""
