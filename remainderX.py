@@ -1,6 +1,8 @@
 
 #-*-coding:utf8-*-
 
+__anthor__ = 'ice wolf'
+
 # The sum of all list elements
 def list_add(list_o):
     """
